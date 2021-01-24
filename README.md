@@ -4,7 +4,7 @@ The event which can help to understand which reviewers are available in the memo
 ## Installation guide
 Go to devbot project directory and run the next in CMD:
 ``` 
-git clone git@github.com:sharovik/devbot-reviewers.git events/devbotreviewers
+git clone git@github.com:sharovik/devbotreviewers.git events/devbotreviewers
 ```
 Then open the `defined-events.go` file and add there event
 ```go
